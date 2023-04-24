@@ -1,2 +1,2 @@
-# ex-clock
+# digital clock
  digital clock
