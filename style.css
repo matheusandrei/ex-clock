@@ -1,0 +1,42 @@
+
+body{
+background-color: #7AA3D2;
+margin: auto;
+text-align: center;
+font: normal 15pt arial;
+}
+header{
+color: white;
+text-shadow: rgba(0, 0, 0, 0.514) 5px 2px 5px;
+margin-bottom: 40px;
+font-family: monospace;
+}
+section{
+background-color: white;
+border-radius: 10px;
+max-width: 550px;
+margin: auto;
+box-shadow: 7px 2px 10px 0px rgba(0, 0, 0, 0.418);
+padding-bottom: 70px;
+
+}
+div#msg{
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+div#pic{
+    margin-top: 40px;
+}
+
+footer{
+color :white;
+font-size: 12pt;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer p a:hover {
+text-decoration: underline;
+}
